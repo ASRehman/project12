@@ -9,3 +9,9 @@ return abc;
 fun(){
 return abc;
 }
+
+3rd function()
+return a
+
+4th function
+return b
