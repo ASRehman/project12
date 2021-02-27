@@ -4,3 +4,8 @@ int bubble_Sort()
 {
 return abc;
 }
+
+2nd function
+fun(){
+return abc;
+}
