@@ -21,4 +21,9 @@ int main(){
 int min(){
 	return a;
 }
+int max()
+{
+	return b;
+}
+
 
