@@ -17,3 +17,16 @@ int main(){
 	}
 	cout<<"Maximum: "<<max;
 }
+
+int min(){
+	return a;
+}
+int max()
+{
+	return b;
+}
+int count(){
+	return c;
+}
+
+
