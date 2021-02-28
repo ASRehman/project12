@@ -25,5 +25,8 @@ int max()
 {
 	return b;
 }
+int count(){
+	return c;
+}
 
 
