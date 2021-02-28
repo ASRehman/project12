@@ -15,3 +15,6 @@ return a
 
 4th function
 return b
+5th function
+void a()
+return b;
